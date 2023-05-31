@@ -1,4 +1,4 @@
-# DS-EXERCISE-1  Data Cleaning
+# EXERCISE-1  DATA CLEANING
 
 ## AIM:
 
